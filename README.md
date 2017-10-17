@@ -1,5 +1,7 @@
 # Alfa-Bank UI Primitives
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alfa-laboratory/alfa-ui-primitives.svg)](https://greenkeeper.io/)
+
 A set of primitives for UI libraries in Alfa-Bank projects. Web, iOS, Android.
 
 
